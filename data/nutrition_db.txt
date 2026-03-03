@@ -1,0 +1,6 @@
+food_name,calories_per_100g,protein,carbs,fat
+Com tam suon,156,20,0,8
+Pho bo tai,110,5,17,3
+Banh mi thit,250,12,30,10
+Bun cha,135,15,10,5
+Tra sua tran chau,65,1,12,2
