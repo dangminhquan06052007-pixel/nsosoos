@@ -4,6 +4,9 @@ from pydantic import BaseModel
 import shutil
 import os
 import torch
+import Pillow
+import uvicorn
+import YOLO v8
 
 # Import các module tự tạo
 from database import FOOD_DATA
