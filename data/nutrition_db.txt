@@ -1,6 +1,51 @@
 food_name,calories_per_100g,protein,carbs,fat
-Com tam suon,156,20,0,8
-Pho bo tai,110,5,17,3
-Banh mi thit,250,12,30,10
-Bun cha,135,15,10,5
-Tra sua tran chau,65,1,12,2
+Com trang,140,2.7,31,0.3
+Gao nep,344,6.6,77,0.5
+Khoai lang,86,1.6,20,0.1
+Khoai lang nghe,116,1.2,27.1,0.3
+Khoai tay,70,2,15.4,0.1
+Ngo,96,3.4,21,1.5
+San,133,1,31.9,0.2
+Banh mi,219,7.9,46.1,1.6
+Mi soi,138,4.5,25,2
+Bun tuoi,110,1.7,25,0.2
+Pho tuoi,110,2.5,25,0.2
+Yen mach,389,16.9,66.3,6.9
+Dau den,132,8.9,23.7,0.5
+Dau xanh,105,7,19,0.4
+Dau phu,73,8.1,0.7,4.2
+Thit lon nac,143,20,0,7
+Thit bo nac,155,21,0,7
+Uc ga,110,23,0,1
+Dui ga bo da,119,20,0,4
+Dui ga co da,211,17,0,15
+Trung ga,143,13,1,10
+Long trang trung ga,47,10,1,0
+Long do trung ga,317,16,4,27
+Ca chep,127,18,0,5.5
+Ca tra,115,16,0,5
+Ca hoi,208,20,0,13
+Tom,100,16,0,0
+Cua bien,87,18,0,2
+Oc,89,18,3.5,0
+Rau muong,30,3,5,0.4
+Bap cai,25,1.3,5.8,0.1
+Ca rot,41,0.9,10,0.2
+Ca chua,18,0.9,3.9,0.2
+Dua chuot,15,0.7,3.6,0.1
+Rau bina,23,2.9,3.6,0.4
+Gia do,31,2.9,4,0.5
+Hanh tay,36,1.2,7.9,0.2
+Chuoi,89,1.1,23,0.3
+Tao,52,0.3,14,0.2
+Cam,47,0.9,12,0.1
+Du du,43,0.5,11,0.3
+Xoai,60,0.8,15,0.4
+Bo,160,2,9,15
+Dau phong,567,25.8,16.1,49.2
+Hat me,573,17.7,23.4,49.7
+Sua tuoi,61,3.9,4.8,3.2
+Sua chua,61,3.5,4.7,3.3
+Mat ong,304,0.3,82.4,0
+Duong,387,0,100,0
+Dau an,884,0,0,100
