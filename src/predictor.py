@@ -37,12 +37,10 @@ def predict_food_info(image):
     Hàm này sau này sẽ nhận ảnh và chạy model AI.
     Hiện tại trả về kết quả giả lập.
     """
-    # 1. Giả lập AI nhận diện được món (Sau này thay bằng YOLO)
     list_foods = ["Pho bo tai", "Com tam suon", "Banh mi thit"]
-    detected_food = random.choice(list_foods)
-    
-    # 2. Giả lập khối lượng (gram)
-    estimated_weight = random.randint(200, 500) # Random 200-500g
+detected_food = random.choice(list_foods)
+
+estimated_weight = random.randint(200, 500)
     
     # 3. Lấy thông tin dinh dưỡng từ DB
     nutrition_info = get_nutrition_from_db(detected_food)
