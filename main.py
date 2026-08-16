@@ -3,6 +3,7 @@ from fastapi import FastAPI, File, UploadFile, HTTPException
 from pydantic import BaseModel
 import shutil
 import os
+import torch
 
 # Import các module tự tạo
 from database import FOOD_DATA
