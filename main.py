@@ -7,6 +7,7 @@ import torch
 import Pillow
 import uvicorn
 import YOLO v8
+import pandas
 
 # Import các module tự tạo
 from database import FOOD_DATA
